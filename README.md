@@ -1,3 +1,3 @@
 # RTAutils
 
-!(docs/RTAutils.experiment.md)
+[Experiment class description](docs/RTAutils.experiment.md)
