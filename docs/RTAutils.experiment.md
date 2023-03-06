@@ -1,3 +1,5 @@
+# Experiment class
+
 Clase base para la implementación de experimentos. Incluye toda la lógica necesaria para la adaptación de los datos, el entrenamiento y la evaluación de acuerdo a las métricas definidas. Las clases hijas implementan la lógica directamente dependiente del modelo, en particular su definición e inicialización, y la estructura de datos adecuada para las entradas y salidas del modelo.
 
 ![](assets/D.Experiment.excalidraw.png)
